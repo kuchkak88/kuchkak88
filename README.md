@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Nodir
 - 👀 I’m interested in coding(working on learning more), manual QA testing (Automation study in process) and all computer related areas.
-- 🌱 I’m currently learning Java and basics of coding.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning AWS Architecture along with Playwright automation.
 
 <!---
 kuchkak88/kuchkak88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
