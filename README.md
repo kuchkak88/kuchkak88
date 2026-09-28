@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nodir
-- 👀 I’m interested in coding(working on learning more), manual QA testing (Automation study in process) and all computer related areas.
+- 👀 I’m interested in coding(working on learning more), manual QA testing (Automation study in progress) and all computer related areas.
 - 🌱 I’m currently learning AWS Architecture along with Playwright automation.
 
 <!---
